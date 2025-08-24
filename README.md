@@ -17,7 +17,7 @@ Feel free to browse my repositories and see what I'm working on!
 
 ## 📫 How to Reach Me
 - Email: alshorbagye@gmail.com
-- LinkedIn: [Your LinkedIn](in/ehab-alshorbagy-116234253)
+- LinkedIn: in/ehab-alshorbagy-116234253
 
 ---
 
