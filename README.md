@@ -16,9 +16,8 @@ Feel free to browse my repositories and see what I'm working on!
 ![Ehab-Alshorbagy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehab-Alshorbagy&show_icons=true&theme=default)
 
 ## 📫 How to Reach Me
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: alshorbagye@gmail.com
+- LinkedIn: [Your LinkedIn](in/ehab-alshorbagy-116234253)
 
 ---
 
